@@ -1,0 +1,34 @@
+{"Manager": {
+        "Name": "Barry",
+        "Team": "The Hackers",
+        "Players": {
+            "Jason" : {
+                "Name": "Jason",
+                "Age": 20,
+                "Weight": 180,
+                "Height": 6.5,
+                "Hits":{
+
+                }
+            },
+            "David" : {
+                "Name": "David",
+                "Age": 20,
+                "Weight": 185,
+                "Height": 6.3,
+                "Hits":{
+
+                }
+            },
+            "Billy" : {
+                "Name": "Billy",
+                "Age": 21,
+                "Weight": 182,
+                "Height": 6.1,
+                "Hits":{
+
+                }
+            }
+
+        }
+    }}
